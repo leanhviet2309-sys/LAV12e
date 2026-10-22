@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới thiệu bản thân</title>
+</head>
+<body>
+    <h1>Xin chào!</h1>
+    <p>Tôi là <strong>LÊ ANH VIỆT</strong>, học sinh lớp <strong>12E</strong>.</p>
+    <p>Nơi ở: <em>Bình Phú, Việt Yên, Hưng Yên</em>.</p>
+</body>
+</html>
